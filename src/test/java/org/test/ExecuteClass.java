@@ -9,7 +9,7 @@ public class ExecuteClass extends BaseClass {
 		
 		browserlaunch("Chrome");
 		launchurl("https://www.youtube.com/");
-		
+		launchurl("https://www.makemytrip.com/");
 		
 	}
 }
